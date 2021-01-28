@@ -3,5 +3,5 @@ It's the year 2742 and resources are getting scarce on our home planet. We've jo
 CRASH!!! Most of my shipmates are dead and now the remaining of us must survive and get back home. 
 
 What should I do?
-1. Try to signal back home for help
-2. Check on remaining shipmates
+1. Try to signal back home for help.
+2. Check on remaining shipmates.

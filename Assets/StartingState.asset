@@ -12,4 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59791ccfb0e945d4aa9b3371381dd5a2, type: 3}
   m_Name: StartingState
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: "It's the year 2742 and resources are getting scarce on our home planet.
+    We've journey out to find a new energy source. Control of the ship was lost when
+    we hit an astroid patch.\r\n\r\nCRASH!!! Most of my shipmates are dead and now
+    the remaining of us must survive and get back home. \r\n\r\nWhat should I do?\r\n1.
+    Try to signal back home for help\r.\n2. Check on remaining shipmates\r."
