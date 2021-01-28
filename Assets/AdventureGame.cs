@@ -11,7 +11,7 @@ public class AdventureGame : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        textComponent.text = "We've just crash landed into a new planet on the way to Earth.";
     }
 
     // Update is called once per frame
