@@ -15,7 +15,7 @@ public class AdventureGame : MonoBehaviour
     void Start()
     {
         state = startingState;
-        textComponent.text = "We've just crash landed into a new planet on the way to Earth.";
+        textComponent.text = state.GetStateStory();
     }
 
     // Update is called once per frame
