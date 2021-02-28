@@ -10,23 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 59791ccfb0e945d4aa9b3371381dd5a2, type: 3}
-  m_Name: A0. Introduction
+  m_Name: A3. Headcount
   m_EditorClassIdentifier: 
-  storyText: 'Welcome to this game.
+  storyText: 'Checking on ship mates
 
 
-    It''s a choose your own adventure. Be careful
-    what you wish for!
+    placeholder
 
 
-    At each stage, you''ll be asked to push a key on the
-    keyboard. for example 1, 2, or 3.
+    1. Signal home
 
-
-    At any point in time, press ''q'' to
-    quit.
-
-
-    Press 1 to start'
+    2.
+    Give up'
   nextStates:
-  - {fileID: 11400000, guid: 000a211345321a549b5f2587ae4d5729, type: 2}
+  - {fileID: 11400000, guid: d174368487be5ca449f1c2b8c894c7a4, type: 2}
+  - {fileID: 11400000, guid: c7574dee7f971424ab46d3b500e65023, type: 2}

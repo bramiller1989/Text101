@@ -18,5 +18,5 @@ MonoBehaviour:
     the remaining of us must survive and get back home. \r\n\r\nWhat should I do?\r\n1.
     Try to signal back home for help\r.\n2. Check on remaining shipmates\r."
   nextStates:
-  - {fileID: 11400000, guid: b5feca110678008499caf75b5878cb09, type: 2}
-  - {fileID: 11400000, guid: ff028e15eba4a24468292635ef6ffb7d, type: 2}
+  - {fileID: 11400000, guid: d174368487be5ca449f1c2b8c894c7a4, type: 2}
+  - {fileID: 11400000, guid: fee058daddfe024488eff3c2738a9b5e, type: 2}
