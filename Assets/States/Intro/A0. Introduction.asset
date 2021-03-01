@@ -27,6 +27,6 @@ MonoBehaviour:
     quit.
 
 
-    Press 1 to start'
+    Press 1 to continue...'
   nextStates:
   - {fileID: 11400000, guid: 000a211345321a549b5f2587ae4d5729, type: 2}
