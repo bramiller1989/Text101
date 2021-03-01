@@ -10,9 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 59791ccfb0e945d4aa9b3371381dd5a2, type: 3}
-  m_Name: Room 1
+  m_Name: A3. Headcount
   m_EditorClassIdentifier: 
-  storyText: I am in room 1.
+  storyText: 'Checking on ship mates
+
+
+    placeholder
+
+
+    1. Signal home
+
+    2.
+    Give up'
   nextStates:
-  - {fileID: 11400000, guid: ff028e15eba4a24468292635ef6ffb7d, type: 2}
-  - {fileID: 11400000, guid: 000a211345321a549b5f2587ae4d5729, type: 2}
+  - {fileID: 11400000, guid: d174368487be5ca449f1c2b8c894c7a4, type: 2}
+  - {fileID: 11400000, guid: c7574dee7f971424ab46d3b500e65023, type: 2}

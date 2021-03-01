@@ -10,9 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 59791ccfb0e945d4aa9b3371381dd5a2, type: 3}
-  m_Name: Room 2
+  m_Name: X1. Game Over
   m_EditorClassIdentifier: 
-  storyText: Okay, this looks like room 2.
+  storyText: 'Game Over.
+
+
+    Want to try again?
+
+    1. Yes.
+
+    2. No.'
   nextStates:
-  - {fileID: 11400000, guid: b5feca110678008499caf75b5878cb09, type: 2}
   - {fileID: 11400000, guid: 000a211345321a549b5f2587ae4d5729, type: 2}
+  - {fileID: 11400000, guid: 53121e73fda71f246b570e2bded5b111, type: 2}
